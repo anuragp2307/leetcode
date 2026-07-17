@@ -45,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragp2307/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/anuragp2307/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anuragp2307/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuragp2307/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -71,4 +73,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/anuragp2307/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
