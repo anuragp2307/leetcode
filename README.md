@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/anuragp2307/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0344-reverse-string](https://github.com/anuragp2307/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/anuragp2307/leetcode/tree/main/0443-string-compression/) | Medium |
