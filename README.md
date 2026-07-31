@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragp2307/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0137-single-number-ii](https://github.com/anuragp2307/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anuragp2307/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anuragp2307/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/anuragp2307/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/anuragp2307/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/anuragp2307/leetcode/tree/main/0645-set-mismatch/) | Easy |
