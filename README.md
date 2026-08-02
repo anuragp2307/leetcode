@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/anuragp2307/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anuragp2307/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuragp2307/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -132,4 +133,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragp2307/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
