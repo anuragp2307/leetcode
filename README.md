@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/anuragp2307/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragp2307/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anuragp2307/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
