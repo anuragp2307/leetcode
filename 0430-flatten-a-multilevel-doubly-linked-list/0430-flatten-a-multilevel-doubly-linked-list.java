@@ -5,8 +5,8 @@ class Solution {
         if(head==null) return head;
         Node curr = head;
         while(curr!=null){
-            if(curr.child==null){ curr = curr.next;
-            } else{
+            if(curr.child==null) curr = curr.next;
+             else{
                 Node fwd= curr.next;
                 Node c = flatten(curr.child);
                 curr.child=null;
@@ -15,9 +15,7 @@ class Solution {
                 Node temp=c;
                 while(temp.next!=null) temp=temp.next;
                 temp.next=fwd;
-                if (fwd!=null){
-                fwd.prev=temp;
-                }
+                if (fwd!=null) fwd.prev=temp;
                 curr = fwd;
             
             }
