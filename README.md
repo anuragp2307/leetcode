@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/anuragp2307/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragp2307/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/anuragp2307/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuragp2307/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragp2307/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/anuragp2307/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
