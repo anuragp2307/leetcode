@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anuragp2307/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/anuragp2307/leetcode/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/anuragp2307/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/anuragp2307/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anuragp2307/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/anuragp2307/leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuragp2307/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/anuragp2307/leetcode/tree/main/0061-rotate-list/) | Medium |
