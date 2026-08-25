@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuragp2307/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anuragp2307/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/anuragp2307/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
