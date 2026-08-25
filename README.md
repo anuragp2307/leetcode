@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/anuragp2307/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/anuragp2307/leetcode/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/anuragp2307/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anuragp2307/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/anuragp2307/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/anuragp2307/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
