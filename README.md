@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/anuragp2307/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/anuragp2307/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anuragp2307/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/anuragp2307/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/anuragp2307/leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/anuragp2307/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Depth-First Search
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
