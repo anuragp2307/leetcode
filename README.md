@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragp2307/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/anuragp2307/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/anuragp2307/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragp2307/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -250,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/anuragp2307/leetcode/tree/main/0155-min-stack/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
