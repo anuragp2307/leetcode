@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/anuragp2307/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/anuragp2307/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anuragp2307/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragp2307/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anuragp2307/leetcode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/anuragp2307/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anuragp2307/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/anuragp2307/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/anuragp2307/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
