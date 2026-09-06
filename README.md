@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/anuragp2307/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/anuragp2307/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/anuragp2307/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/anuragp2307/leetcode/tree/main/0051-n-queens/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/anuragp2307/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
