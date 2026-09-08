@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/anuragp2307/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anuragp2307/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuragp2307/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragp2307/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuragp2307/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuragp2307/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anuragp2307/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/anuragp2307/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2235-add-two-integers](https://github.com/anuragp2307/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anuragp2307/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuragp2307/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/anuragp2307/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuragp2307/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/anuragp2307/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anuragp2307/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
