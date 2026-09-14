@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/anuragp2307/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/anuragp2307/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/anuragp2307/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/anuragp2307/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/anuragp2307/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anuragp2307/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2235-add-two-integers](https://github.com/anuragp2307/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -309,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragp2307/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/anuragp2307/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
