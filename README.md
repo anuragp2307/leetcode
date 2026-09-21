@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/anuragp2307/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/anuragp2307/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/anuragp2307/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/anuragp2307/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/anuragp2307/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anuragp2307/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/anuragp2307/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragp2307/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuragp2307/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anuragp2307/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/anuragp2307/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuragp2307/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/anuragp2307/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Monotonic Stack
