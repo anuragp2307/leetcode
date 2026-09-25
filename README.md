@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/anuragp2307/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/anuragp2307/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/anuragp2307/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/anuragp2307/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/anuragp2307/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anuragp2307/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anuragp2307/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragp2307/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/anuragp2307/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/anuragp2307/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/anuragp2307/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragp2307/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -293,12 +295,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/anuragp2307/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuragp2307/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/anuragp2307/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/anuragp2307/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/anuragp2307/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anuragp2307/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragp2307/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/anuragp2307/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/anuragp2307/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragp2307/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragp2307/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
