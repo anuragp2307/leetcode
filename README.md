@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragp2307/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/anuragp2307/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragp2307/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,8 +385,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/anuragp2307/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragp2307/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/anuragp2307/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
