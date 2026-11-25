@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anuragp2307/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/anuragp2307/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuragp2307/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/anuragp2307/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anuragp2307/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuragp2307/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/anuragp2307/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anuragp2307/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuragp2307/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/anuragp2307/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
